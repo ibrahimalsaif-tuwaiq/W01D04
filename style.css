@@ -1,0 +1,67 @@
+body {
+    background-color: #6AB558;
+    width: 25%;
+    margin: 15% auto;
+}
+
+.listCon {
+    background-color: white;
+    padding: 10px 20px;
+    border-radius: 5%;
+}
+
+.listCon h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 160%;
+    margin-bottom: 0;
+}
+
+.listCon p {
+    color: gray;
+    font-style: italic;
+    margin-top: 5px;
+}
+
+.button {
+    color: white;
+    padding: 5px 20px;
+    border-radius: 28px;
+    border-style: solid;
+    border: none;
+}
+
+.button:hover {
+    cursor: pointer;
+}
+
+.list {
+    padding: 10px 20px;
+}
+
+.list ol li{
+    font-size: 120%;
+}
+
+#crossed {
+    text-decoration: line-through;
+    background-color: #DEDEDE;
+}
+
+.options {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 25px;
+}
+
+.blue {
+    background-color: #3B93D2;
+
+}
+
+.red {
+    background-color: #8C2828;
+}
+
+.green {
+    background-color: #6AB558;
+}
