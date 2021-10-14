@@ -1,67 +1,66 @@
 body {
-    background-color: #6AB558;
-    width: 25%;
-    margin: 15% auto;
+  background-color: #6ab558;
+  width: 25%;
+  margin: 15% auto;
 }
 
 .listCon {
-    background-color: white;
-    padding: 10px 20px;
-    border-radius: 5%;
+  background-color: white;
+  padding: 10px 20px;
+  border-radius: 5%;
 }
 
 .listCon h3 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 160%;
-    margin-bottom: 0;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 160%;
+  margin-bottom: 0;
 }
 
 .listCon p {
-    color: gray;
-    font-style: italic;
-    margin-top: 5px;
+  color: gray;
+  font-style: italic;
+  margin-top: 5px;
 }
 
 .button {
-    color: white;
-    padding: 5px 20px;
-    border-radius: 28px;
-    border-style: solid;
-    border: none;
+  color: white;
+  padding: 5px 20px;
+  border-radius: 28px;
+  border-style: solid;
+  border: none;
 }
 
 .button:hover {
-    cursor: pointer;
+  cursor: pointer;
 }
 
 .list {
-    padding: 10px 20px;
+  padding: 10px 20px;
 }
 
-.list ol li{
-    font-size: 120%;
+.list ol li {
+  font-size: 120%;
 }
 
 #crossed {
-    text-decoration: line-through;
-    background-color: #DEDEDE;
+  text-decoration: line-through;
+  background-color: #dedede;
 }
 
 .options {
-    display: flex;
-    justify-content: space-evenly;
-    margin-bottom: 25px;
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 25px;
 }
 
 .blue {
-    background-color: #3B93D2;
-
+  background-color: #3b93d2;
 }
 
 .red {
-    background-color: #8C2828;
+  background-color: #8c2828;
 }
 
 .green {
-    background-color: #6AB558;
+  background-color: #6ab558;
 }
